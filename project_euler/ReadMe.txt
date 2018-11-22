@@ -1,1 +1,1 @@
-This folder include the project euler problems solvved by me. 
+This folder include the project euler problems solved by me. 
